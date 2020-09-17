@@ -1,22 +1,22 @@
 [
-    {
-        "text": "Instagram",
-        "image": "https://ateliergrassjelly.github.io/resource/images/brand_logos/instagram.png",
-        "href": "https://www.instagram.com/ateliergrassjelly/"
-      },
-      {
-        "text": "Facebook",
-        "image": "https://ateliergrassjelly.github.io/resource/images/brand_logos/facebook.png",
-        "href": "https://www.facebook.com/AtelierGrassJelly"
-      },
-      {
-        "text": "Shopee",
-        "image": "https://ateliergrassjelly.github.io/resource/images/brand_logos/shopee.svg",
-        "href": "https://shopee.com.my/ateliergrassjelly"
-      },
-      {
-        "text": "Etsy",
-        "image": "https://ateliergrassjelly.github.io/resource/images/brand_logos/etsy.svg",
-        "href": "https://www.etsy.com/shop/ateliergrassjelly"
-      }
+  {
+    "text": "Instagram",
+    "image": "https://ateliergrassjelly.github.io/resource/images/brand_logos/instagram.png",
+    "href": "https://www.instagram.com/ateliergrassjelly/"
+  },
+  {
+    "text": "Facebook",
+    "image": "https://ateliergrassjelly.github.io/resource/images/brand_logos/facebook.png",
+    "href": "https://www.facebook.com/AtelierGrassJelly"
+  },
+  {
+    "text": "Shopee",
+    "image": "https://ateliergrassjelly.github.io/resource/images/brand_logos/shopee.svg",
+    "href": "https://shopee.com.my/ateliergrassjelly"
+  },
+  {
+    "text": "Etsy",
+    "image": "https://ateliergrassjelly.github.io/resource/images/brand_logos/etsy.svg",
+    "href": "https://www.etsy.com/shop/ateliergrassjelly"
+  }
 ]
