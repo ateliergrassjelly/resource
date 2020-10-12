@@ -22,10 +22,10 @@
     }
   ],
   "highlights": {
-    "show": false,
-    "image": "https://ateliergrassjelly.github.io/resource/images/crafts/3.jpg",
-    "title": "Enchanted Rose",
-    "subtitle" : "",
-    "link": ""
+    "show": true,
+    "image": "https://ateliergrassjelly.github.io/resource/images/crafts/whale.jpg",
+    "title": "New Item",
+    "subtitle" : "Available in Shopee Now",
+    "link": "https://shopee.com.my/*READY-STOCK*-October-Theme-I-The-Rhythm-of-Whale-Resin-key-chain-mold-shaker-card-tag-card-holder-keychain-i.68466270.4556830743"
   }
 }
